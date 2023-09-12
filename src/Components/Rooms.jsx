@@ -1,6 +1,6 @@
 const Rooms = () => {
     return ( 
-        <div name="room" className="max-w-[1000px] h-[500px] my-20 m-auto lg:mb-[10%] md:mb-[35%] px-4 grid lg:grid-cols-3 gap-4 bg-slate-100">
+        <div name="room" className="max-w-[1000px] h-[500px] my-20 m-auto mb-[30%] lg:mb-[10%] md:mb-[35%] px-4 grid lg:grid-cols-3 gap-4 bg-slate-100">
             <div className="lg:top-20 relative lg:col-span-1 col-span-2 pt-16 md:p-1">
                 <h1 className="font-bold text-2xl">Interior Roooms</h1>
                 <p className="pt-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo 

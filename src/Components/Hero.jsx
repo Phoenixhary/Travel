@@ -12,7 +12,7 @@ const Hero = () => {
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, assumenda! Quod 
                 exercitationem distinctio maxime rem esse sint iusto reprehenderit doloribus.
                 </p>
-                <button className="bg-white text-black font-serif hover:opacity-80 ">
+                <button className="bg-white text-black font-serif hover:opacity-80 cursor-pointer">
                      Reserve Now
                  </button>
             </div>
